@@ -8,7 +8,7 @@
 
 - 🌎 My personal website: [www.nickmancuso.dev](www.nickmancuso.dev)
 
-- 💬 Ask me about **Java, Checkstyle, open source software, version control**
+- 💬 Ask me about **Java, Checkstyle, FOSS, Linux, and version control with git**
 
 - ⚡ Fun fact **I once wrestled two alligators!**
 
