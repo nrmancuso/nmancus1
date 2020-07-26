@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Mancuso</h1>
-<h3 align="center">A Computer Science student, Java developer, and linux enthusiast.</h3>
+<h3 align="center">A Computer Science student, Java developer, and Linux enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmancus1" alt="nmancus1" /> </p>
 
 - 🔭 I’m currently working on [GSOC 2020 with Checkstyle](https://github.com/checkstyle/checkstyle/projects/8?add_cards_query=is%3Aopen)
