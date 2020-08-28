@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nmancus1](https://github.com/nmancus1)
 
-- 🌎 My personal website: [www.nickmancuso.dev](www.nickmancuso.dev)
+- 🌎 My personal website: [www.nickmancuso.dev](https://www.nickmancuso.dev)
 
 - 💬 Ask me about **Java, Checkstyle, FOSS, Linux, and version control with git**
 
