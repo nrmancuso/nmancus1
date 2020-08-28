@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nick Mancuso</h1>
+<h1 align="center">Hi, I'm Nick Mancuso</h1>
 <h3 align="center">A Computer Science student, Java developer, and Linux enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmancus1" alt="nmancus1" /> </p>
 
