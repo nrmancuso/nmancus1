@@ -2,8 +2,6 @@
 <h3 align="center">A Computer Science student, Java developer, and Linux enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmancus1" alt="nmancus1" /> </p>
 
-- 🔭 I’m currently working on [GSOC 2020 with Checkstyle](https://github.com/checkstyle/checkstyle/projects/8?add_cards_query=is%3Aopen)
-
 - 👨‍💻 All of my projects are available at [https://github.com/nmancus1](https://github.com/nmancus1)
 
 - 🌎 My personal website: [www.nickmancuso.dev](https://www.nickmancuso.dev)
