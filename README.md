@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **Java, Checkstyle, FOSS, Linux, and version control with git**
 
+- ✏️ Google Summer of Code 2020 project: [ANTLR grammar for Java 14 features with Checkstyle ](https://summerofcode.withgoogle.com/archive/2020/projects/4999687213416448/)
+
 <img src="https://github-readme-stats.vercel.app/api?username=nmancus1&show_icons=true" alt="nmancus1" /> </p>
 
 <p align="center">
