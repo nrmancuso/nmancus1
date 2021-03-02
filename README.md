@@ -11,9 +11,7 @@
 - 💬 Ask me about **Java, Checkstyle, FOSS, Linux, and version control with git**
 
 - ✏️ Google Summer of Code 2020 project: [ANTLR grammar for Java 14 features with Checkstyle ](https://summerofcode.withgoogle.com/archive/2020/projects/4999687213416448/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmancus1&layout=compact&theme=nord)](https://github.com/nmancus1/github-readme-stats)
-
+- 🏫 My [CV](https://docs.google.com/document/d/e/2PACX-1vQivPP70oOKkTFraIPM4_LO0_GzIHoU_fJiPEyjeS6Sci-dRBMpsZpwTi_H104Nj5e2d3lsiNJaS2-X/pub)
 
 <img src="https://github-readme-stats.vercel.app/api?username=nmancus1&theme=nord&show_icons=true&hide_rank=true" alt="nmancus1" /> </p>
 
