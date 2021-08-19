@@ -12,7 +12,7 @@
 
 - ✏️ Google Summer of Code 2021 project: [Upgrade Java Grammar from ANTLR2 to ANTLR4 with Checkstyle ](https://summerofcode.withgoogle.com/projects/#4730047044255744)
 
-- 🏫 My [CV](https://docs.google.com/document/d/e/2PACX-1vQivPP70oOKkTFraIPM4_LO0_GzIHoU_fJiPEyjeS6Sci-dRBMpsZpwTi_H104Nj5e2d3lsiNJaS2-X/pub)
+- 🏫 My [CV](https://nmancus1.github.io/nickmancuso_resume.pdf)
 
 <img src="https://github-readme-stats.vercel.app/api?username=nmancus1&theme=nord&show_icons=true&hide_rank=true" alt="nmancus1" /> </p>
 
