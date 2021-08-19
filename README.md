@@ -4,13 +4,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nmancus1](https://github.com/nmancus1)
 
-- 🌎 My personal website: [www.nickmancuso.dev](https://www.nickmancuso.dev)
-
 - 📁 My portfolio: [https://nmancus1.github.io](https://nmancus1.github.io)
 
 - 💬 Ask me about **Java, Checkstyle, FOSS, Linux, and version control with git**
 
 - ✏️ Google Summer of Code 2020 project: [ANTLR grammar for Java 14 features with Checkstyle ](https://summerofcode.withgoogle.com/archive/2020/projects/4999687213416448/)
+
+- ✏️ Google Summer of Code 2021 project: [Upgrade Java Grammar from ANTLR2 to ANTLR4 with Checkstyle ](https://summerofcode.withgoogle.com/projects/#4730047044255744)
+
 - 🏫 My [CV](https://docs.google.com/document/d/e/2PACX-1vQivPP70oOKkTFraIPM4_LO0_GzIHoU_fJiPEyjeS6Sci-dRBMpsZpwTi_H104Nj5e2d3lsiNJaS2-X/pub)
 
 <img src="https://github-readme-stats.vercel.app/api?username=nmancus1&theme=nord&show_icons=true&hide_rank=true" alt="nmancus1" /> </p>
