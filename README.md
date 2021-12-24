@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Nick Mancuso</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmancus1" alt="nmancus1" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/nmancus1](https://github.com/nmancus1)
-
 - 📁 My portfolio: [https://nmancus1.github.io](https://nmancus1.github.io)
 
 - 💬 Ask me about **Java, Checkstyle, FOSS, Linux, and version control with git**
